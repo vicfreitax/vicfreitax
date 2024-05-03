@@ -2,7 +2,7 @@
 ##
 
 - Sou estudante de Análise de Sistemas no Descomplica 🖥️ 
-- Entre em contato comigo pelo e-mail 
+- Entre em contato comigo pelo e-mail victoria.freitax@usp.br
 - Pronomes: 
 
 <div> 
@@ -30,6 +30,7 @@
   
   <a href = "mailto:victoria.freitax@usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/victoriafreitax/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href = "https://www.instagram.com/vic_freitax/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
 </div>
 
