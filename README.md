@@ -5,7 +5,7 @@
 
 #
 
-<p align="center">Olá! Eu sou Vic! Sou estudante de Análise de Sistemas na Faculdade Descomplica 🖥️ Entre em contato comigo pelo e-mail victoria.freitax@usp.br
+<p align="center"> Olá! Sou Vic Freitas, estudante de Letras com habilitação em português e espanhol e de Análise e Desenvolvimento de Sistemas. Sou uma pessoa curiosa, apaixonada por tecnologia e educação. Atualmente estou iniciando minha trajetória nos estudos na área de desenvolvimento de software. Meu objetivo é ingressar no mercado na área de tecnologia para colocar em prática es habilidades que estou desenvolvendo.Espero que goste do que vai encontrar por aqui! 😁 </p>
 
 #
 
@@ -48,7 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vicfreitax&theme=neon&show_icons=true" width=45% alt="GitHub stats">
 
   <a href="https://github.com/mari4souza/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicfreitax&layout=compact&theme=neon" width=40%>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicfreitax&layout=compact&theme=neon" width=34%>
   </a>
 </div>
 
